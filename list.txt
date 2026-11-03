@@ -4,6 +4,7 @@ bananen
 käse
 orangen
 kekse
+brot
 wurst
 beer
 chips

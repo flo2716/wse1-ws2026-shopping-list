@@ -1,6 +1,7 @@
 aepfel
 birnen
 käse
+orangen
 wurst
 beer
 chips

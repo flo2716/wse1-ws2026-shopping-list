@@ -5,3 +5,6 @@ orangen
 wurst
 beer
 chips
+tomaten
+gurkerl
+paprika

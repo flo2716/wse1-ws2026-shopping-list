@@ -2,3 +2,5 @@ aepfel
 birnen
 käse
 wurst
+beer
+chips

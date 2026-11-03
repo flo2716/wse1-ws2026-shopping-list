@@ -5,7 +5,3 @@ orangen
 wurst
 beer
 chips
-leberkäse
- - normal
- - pikant
- - käse

@@ -4,3 +4,7 @@ käse
 wurst
 beer
 chips
+leberkäse
+ - normal
+ - pikant
+ - käse

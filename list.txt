@@ -9,3 +9,5 @@ chips
 tomaten
 gurkerl
 paprika
+salat
+

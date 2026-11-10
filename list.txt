@@ -18,3 +18,5 @@ salat
 eis
 cola
 sprite
+fanta
+
